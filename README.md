@@ -6,7 +6,7 @@ From time to time I am diving into the investing of cs:go skins and stickers. An
 I'm fed up with putting items to stash, taking them out and confirmation of market listening.   
    
 ![Steam App](https://github.com/dDenVil/Auto_Steam_Confirmaton/blob/main/Readme_assets/app_cs.jpg?raw=true)
-## Here what I've got
+## Here what I've came up with
 ![Device](https://github.com/dDenVil/Auto_Steam_Confirmaton/blob/main/Readme_assets/device.jpg?raw=true) Device in small box with 2 buttons and 1 led. It has adapter for phone. It is can put or take from CS:GO stash 1000 items in 20 seconds (
 [GIF](https://github.com/dDenVil/Auto_Steam_Confirmaton/blob/main/Readme_assets/ScreenCS.gif)
 ). Just press right button. If you want in can do it 5x faster. And press left button to confirm market listening in Steam App (
