@@ -75,4 +75,4 @@ Function `settings(stepCS)` will help you to change chosen parameter on terminal
          
 ![GIF](https://github.com/dDenVil/Auto_Steam_Confirmaton/blob/main/Readme_assets/gifs.gif?raw=true)    
 
-
+That's it.
